@@ -1,0 +1,8 @@
+jupyter
+tensorflow
+keras
+numpy
+sklearn
+pandas
+wandb
+pandas_profiling
